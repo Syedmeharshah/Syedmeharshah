@@ -1,6 +1,6 @@
 ![logo](https://github.com/Syedmeharshah/Syedmeharshah/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Syed Mehar Ali Shah</h1>
-<h3 align="center">A passionate Mern Stack developer</h3>
+<h3 align="center">A passionate Mern Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" alt="" srcset="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmeharshah&label=Profile%20views&color=0e75b6&style=flat" alt="syedmeharshah" /> </p>
 
